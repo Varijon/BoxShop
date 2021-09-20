@@ -1,0 +1,16 @@
+[
+{
+  "modid": "boxshop",
+  "name": "BoxShop",
+  "description": "Mod to make easy chestshops.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
