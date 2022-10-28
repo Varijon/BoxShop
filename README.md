@@ -26,3 +26,6 @@ This permission allows a player to override the shop interface and open the shul
 
 ## Notes:
 While this mod has checks in place to prevent duping (like the contents changing while someone is buying), please make sure you test this in your environment before adding. 
+
+## Video demo:
+https://www.youtube.com/watch?v=7-HhLxeg2J4
