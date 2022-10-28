@@ -67,7 +67,7 @@ dependencies {
     // compile "some.group:artifact:version"
 
     compile files ("/libs/GooeyLibs-2.2.0.jar")
-    compile files ("/libs/Pixelmon-1.12.2-8.2.0-server.jar")
+    compile files ("/libs/Pixelmon-1.12.2-8.4.2-server.jar")
     // compile 'com.mod-buildcraft:buildcraft:6.0.8:dev'  // adds buildcraft to the dev env
     // compile 'com.googlecode.efficient-java-matrix-library:ejml:0.24' // adds ejml to the dev env
 

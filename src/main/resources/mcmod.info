@@ -2,7 +2,7 @@
 {
   "modid": "boxshop",
   "name": "BoxShop",
-  "description": "Mod to make easy chestshops.",
+  "description": "Mod to make easy player shops using shulkerboxes.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
