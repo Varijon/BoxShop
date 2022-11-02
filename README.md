@@ -16,11 +16,14 @@ This will make the shulker a boxshop when placed, allowing other players to righ
 
 The number is what each itemslot costs, for different prices you'll need multiple boxshops.
 
+If an item is lower than the minimum price set in the config, it will not show up in the shop screen.
+
 The shulker's other functions don't change, it can be moved freely and requires claims to be secure.
 For example, after claiming with GriefDefender, you'll likely have to do "/accesstrust public" in your claim.
 
 ## Permissions:
 >boxshop.ignoreshops
+>boxshop.reload -- /bsreload
 
 This permission allows a player to override the shop interface and open the shulker normally while in Creative.
 
