@@ -23,6 +23,7 @@ For example, after claiming with GriefDefender, you'll likely have to do "/acces
 
 ## Permissions:
 >boxshop.ignoreshops
+
 >boxshop.reload -- /bsreload
 
 This permission allows a player to override the shop interface and open the shulker normally while in Creative.
