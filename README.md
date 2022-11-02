@@ -28,6 +28,8 @@ This permission allows a player to override the shop interface and open the shul
 
 >boxshop.reload -- /bsreload
 
+This permission/command allows you to reload the config.
+
 ## Notes:
 While this mod has checks in place to prevent duping (like the contents changing while someone is buying), please make sure you test this in your environment before adding. 
 
